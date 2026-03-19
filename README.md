@@ -1,4 +1,4 @@
-**!! Obsolete, not maintanied - DO NOT USE !!**
+**!! Obsolete, not maintanied - DO NOT USE !! Only For Study**
 I keep this repository alive and open for study and historical purposes only. It is no longer actively maintained (although there may be other forks that are still maintained).
 
 stratum-mining-proxy
